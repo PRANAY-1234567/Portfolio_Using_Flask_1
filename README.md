@@ -22,7 +22,6 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
    git clone https://github.com/yourusername/portfolio-website.git
    cd portfolio-website
    ```
-
 2. Create a virtual environment (recommended):
    ```bash
    python -m venv venv

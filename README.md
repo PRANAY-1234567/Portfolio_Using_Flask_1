@@ -1,7 +1,6 @@
 # Portfolio Website
 
 A modern, responsive portfolio website built with Flask and Tailwind CSS. Showcase your projects, skills, and contact information in a clean and professional manner.
-
 ## Features
 
 - Responsive design that works on all devices

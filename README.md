@@ -123,6 +123,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Credits
 
 - [Flask](https://flask.palletsprojects.com/)
+- 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Font Awesome](https://fontawesome.com/)
 

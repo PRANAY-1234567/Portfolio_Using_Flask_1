@@ -78,8 +78,7 @@ You can add projects in two ways:
    >>> exit()
    ```
 
-2. **Using the admin interface (to be implemented)**:
-   Coming soon!
+
 
 ## Customization
 

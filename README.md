@@ -95,7 +95,7 @@ You can add projects in two ways:
    ```bash
    heroku login
    ```
-
+   
 2. Create a new Heroku app:
    ```bash
    heroku create your-app-name

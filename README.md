@@ -131,3 +131,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For support, please open an issue on the GitHub repository or contact me directly.
+
+
